@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">I'm an AI student</h3>
 
+<h4>Top Languages by Commit</h4>
+<p align="left">
+  <img src="./assets/charts/top-languages-by-commit.png" alt="Top Languages by Commit" width="420" />
+</p>
+
 <h1 align="left">My Tech Stack</h1>
 
 <h2>Programming Languages</h2>
