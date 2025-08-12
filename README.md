@@ -68,7 +68,7 @@
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" alt="postgresql" width="60" height="60"/>
   </a>
   <a href="https://dbeaver.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" alt="dbeaver" width="60" height="60"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=dbeaver&theme=dark" alt="dbeaver" width="60" height="60"/>
   </a>
 </p>
 
