@@ -96,7 +96,7 @@
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/690c3f2175012eddd79d407525ab10c18cd76d91/icons/VSCode-Dark.svg" alt="vscode" width="60" height="60"/>
   </a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pycharm.png" alt="pycharm" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PyCharm-Dark.svg" alt="pycharm" width="60" height="60"/>
   </a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" alt="jupyter" width="60" height="60"/>
