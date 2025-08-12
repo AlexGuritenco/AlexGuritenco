@@ -104,6 +104,11 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" alt="git" width="60" height="60"/>
   </a>
+    </a>
+  <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Anaconda-Dark.svg" alt="git" width="60" height="60"/>
+  </a>
+  
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" alt="github" width="60" height="60"/>
   </a>
