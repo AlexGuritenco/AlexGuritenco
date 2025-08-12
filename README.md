@@ -23,7 +23,7 @@
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" alt="html5" width="60" height="60"/>
   </a>
   <a href="https://shiny.rstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/shiny.png" alt="shiny" width="60" height="60"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=shiny&theme=dark" alt="shiny" width="60" height="60"/>
   </a>
 </p>
 
