@@ -6,7 +6,7 @@
 <h4>Programming Languages</h4>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="java" width="40" height="40"/>
+    <img src="assets/icons/Java-Dark.svg" alt="Java" width="44" />
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="python" width="40" height="40"/>
