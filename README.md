@@ -4,10 +4,10 @@
 <h3 align="left">Skills:</h3>
 
 <h4>Programming Languages</h4>
-<p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="assets/icons/Java-Dark.svg" alt="Java" width="44" />
+    <img src="[https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png](https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg)" alt="java" width="40" height="40"/>
   </a>
+
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="python" width="40" height="40"/>
   </a>
