@@ -3,8 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&size=30&pause=1000&color=FDFCFC&vCenter=true&width=435&lines=Hello+Everyone!+I'm+Alex%F0%9F%91%8B" alt="Typing SVG" />
 </a>
 </p>
-<h3 align="center">I'm A Third-Semester AI Student</h3>
-
+<h2 align="center">I'm A Third-Semester AI Student at JKU LINZ<br>Focusing on ML, DL and AI/Software Engineering</h2>
 
 <h1 align="left">My Tech Stack</h1>
 
