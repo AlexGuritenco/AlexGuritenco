@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">I'm an AI student</h3>
+<h1 align="center">Hi Everyone 👋, I'm Alex</h1>
+<h3 align="center">I'm A Third-Semester AI Student</h3>
 
 
 <h1 align="left">My Tech Stack</h1>
