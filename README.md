@@ -55,7 +55,7 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas&theme=dark" alt="pandas" width="60" height="60"/>
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg&theme=dark" width="60" height="60"/>
+    <img src="https://cdn.simpleicons.org/seaborn&theme=dark" width="60" height="60"/>
   </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/matplotlib-1.svg&theme=dark" alt="matplotlib" width="60" height="60"/>
