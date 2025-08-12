@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">I'm an AI student</h3>
 
-<h3 align="left">Skills:</h3>
+<h1 align="left">Skills:</h1>
 
-<h3>Programming Languages</h3>
+<h2>Programming Languages</h2>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg" alt="java" width="60" height="60"/>
   </a>
@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<h4>Frontend Development</h4>
+<h2>Frontend Development</h2>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" alt="html5" width="60" height="60"/>
@@ -26,7 +26,7 @@
   </a>
 </p>
 
-<h4>Backend Development</h4>
+<h2>Backend Development</h2>
 <p align="left">
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" alt="spring_boot" width="60" height="60"/>
@@ -39,7 +39,7 @@
   </a>
 </p>
 
-<h4>AI/ML</h4>
+<h2>AI/ML</h2>
 <p align="left">
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Dark.svg" alt="pytorch" width="60" height="60"/>
@@ -61,7 +61,7 @@
   </a>
 </p>
 
-<h4>Database</h4>
+<h2>Database</h2>
 <p align="left">
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" alt="postgresql" width="60" height="60"/>
@@ -71,7 +71,7 @@
   </a>
 </p>
 
-<h4>DevOps</h4>
+<h2>DevOps</h2>
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Docker.svg" alt="docker" width="60" height="60"/>
@@ -84,7 +84,7 @@
   </a>
 </p>
 
-<h4>Developer Tools</h4>
+<h2>Developer Tools</h2>
 <p align="left">
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Idea-Dark.svg" alt="intellij" width="60" height="60"/>
