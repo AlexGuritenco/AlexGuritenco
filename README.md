@@ -57,7 +57,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" width="60" height="60"/>
   </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="60" height="60"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/matplotlib-1.svg" alt="matplotlib" width="60" height="60"/>
   </a>
 </p>
 
