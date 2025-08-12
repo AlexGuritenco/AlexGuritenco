@@ -87,7 +87,7 @@
 <h4>Developer Tools</h4>
 <p align="left">
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" alt="intellij" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Idea-Dark.svg" alt="intellij" width="60" height="60"/>
   </a>
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/690c3f2175012eddd79d407525ab10c18cd76d91/icons/LaTeX-Dark.svg" alt="latex" width="60" height="60"/>
