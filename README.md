@@ -90,10 +90,10 @@
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" alt="intellij" width="40" height="40"/>
   </a>
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/690c3f2175012eddd79d407525ab10c18cd76d91/icons/LaTeX-Dark.svg" alt="latex" width="40" height="40"/>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="vscode" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/690c3f2175012eddd79d407525ab10c18cd76d91/icons/VSCode-Dark.svg" alt="vscode" width="40" height="40"/>
   </a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pycharm.png" alt="pycharm" width="40" height="40"/>
