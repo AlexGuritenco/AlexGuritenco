@@ -19,7 +19,7 @@
 <h4>Frontend Development</h4>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="html5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" alt="html5" width="40" height="40"/>
   </a>
   <a href="https://shiny.rstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/shiny.png" alt="shiny" width="40" height="40"/>
@@ -32,7 +32,7 @@
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" alt="spring_boot" width="40" height="40"/>
   </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/FastAPI.svg" alt="fastapi" width="40" height="40"/>
   </a>
   <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="rest_api" width="40" height="40"/>
