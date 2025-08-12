@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">I'm an AI student</h3>
 
-![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlexGuritenco&theme=github_dark)
 
 <h1 align="left">My Tech Stack</h1>
 
