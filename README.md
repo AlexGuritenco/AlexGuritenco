@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">I'm an AI student</h3>
 
-<h1 align="left">My Tech Stack:</h1>
+<h1 align="left">My Tech Stack</h1>
 
 <h2>Programming Languages</h2>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
