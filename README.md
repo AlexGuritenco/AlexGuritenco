@@ -3,7 +3,7 @@
 
 <h3 align="left">Skills:</h3>
 
-<h4>Programming Languages</h4>
+<h3>Programming Languages</h3>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg" alt="java" width="60" height="60"/>
   </a>
