@@ -1,7 +1,8 @@
 <p align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&size=30&pause=1000&color=FDFCFC&vCenter=true&width=435&lines=Hello+Everyone!+I'm+Alex%F0%9F%91%8B" alt="Typing SVG" />
-</a>
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=38&duration=4000&pause=1000&color=FDFCFC&center=true&vCenter=true&width=800&height=80&lines=Hello+Everyone!+I%27m+Alex%F0%9F%91%8B&r=1"
+    alt="Typing intro"
+  />
 </p>
 <h2 align="center">I'm A Third-Semester AI Student at JKU LINZ<br>Focusing on ML, DL and AI/Software Engineering</h2>
 
