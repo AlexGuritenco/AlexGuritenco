@@ -80,9 +80,9 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" alt="postgresql" width="60" height="60"/>
   </a>
-  <a href="https://dbeaver.io/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://dbeaver.io/" target="_blank" rel="noreferrer">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=dbeaver&theme=dark" alt="dbeaver" width="60" height="60"/>
-  </a>
+  </a> -->
 </p>
 
 <h2>DevOps</h2>
@@ -103,30 +103,29 @@
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Idea-Dark.svg" alt="intellij" width="60" height="60"/>
   </a>
-  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/690c3f2175012eddd79d407525ab10c18cd76d91/icons/LaTeX-Dark.svg" alt="latex" width="60" height="60"/>
+    <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PyCharm-Dark.svg" alt="pycharm" width="60" height="60"/>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/690c3f2175012eddd79d407525ab10c18cd76d91/icons/VSCode-Dark.svg" alt="vscode" width="60" height="60"/>
   </a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PyCharm-Dark.svg" alt="pycharm" width="60" height="60"/>
-  </a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter&theme=dark" alt="jupyter" width="60" height="60"/>
+  </a>
+    <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Anaconda-Dark.svg" alt="git" width="60" height="60"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" alt="git" width="60" height="60"/>
   </a>
-    </a>
-  <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Anaconda-Dark.svg" alt="git" width="60" height="60"/>
-  </a>
-  
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" alt="github" width="60" height="60"/>
   </a>
+    </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Postman.svg" alt="postman" width="60" height="60"/>
+  </a>
+  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/690c3f2175012eddd79d407525ab10c18cd76d91/icons/LaTeX-Dark.svg" alt="latex" width="60" height="60"/>
   </a>
 </p>
