@@ -4,7 +4,7 @@
     alt="Typing intro"
   />
 </p>
-<h2 align="center">I'm A Third-Semester AI Student at JKU LINZ<br>Focusing on ML, DL and AI/Software Engineering</h2>
+<h2 align="center">I'm A Fourth-Semester AI Student at JKU LINZ<br>Focusing on ML, DL and AI/Software Engineering</h2>
 
 <h1 align="left">My Tech Stack</h1>
 
