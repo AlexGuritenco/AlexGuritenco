@@ -35,6 +35,9 @@
   <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" alt="shiny" width="60" height="60"/>
   </a>
+  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/TailwindCSS-Dark.svg" alt="tailwind" width="60" height="60"/>
+  </a>
   <a href="https://react.dev" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg" alt="react" width="60" height="60"/>
   </a>
