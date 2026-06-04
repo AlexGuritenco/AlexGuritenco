@@ -42,14 +42,17 @@
 
 <h2>Backend Development</h2>
 <p align="left">
+    <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="rest_api" width="60" height="60"/>
+  </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" alt="spring_boot" width="60" height="60"/>
   </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/FastAPI.svg" alt="fastapi" width="60" height="60"/>
   </a>
-  <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="rest_api" width="60" height="60"/>
+  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/NodeJS-Dark.svg" width="60" height="60"/>
   </a>
 </p>
 
